@@ -22,8 +22,8 @@ Este es un proyecto sencillo que utiliza MQTT para recibir datos y mostrar infor
    git clone https://github.com/usuario/mqtt-laser-control.git
    cd mqtt-laser-control
 
-## Instalar dependencias
+2. **Instalar dependencias**:
     ```bash
-    - `pip install paho-mqtt`
+    pip install paho-mqtt`
 
 
