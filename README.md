@@ -27,3 +27,5 @@ Este es un proyecto sencillo que utiliza MQTT para recibir datos y mostrar infor
     pip install paho-mqtt`
 
 
+
+modelo de arduino sp32 IOT cam
